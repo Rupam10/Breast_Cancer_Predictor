@@ -5,7 +5,7 @@ This is Kaggle Dataset for breast cancer
 ## Install
 
 ### &nbsp;&nbsp;&nbsp; Supported Python version
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Python version used in this project: 3.5+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Python version used in this project: 3.8.8
 
 ### &nbsp;&nbsp;&nbsp; Libraries used
 
