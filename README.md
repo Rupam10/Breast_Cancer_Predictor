@@ -9,7 +9,7 @@ This is Kaggle Dataset for breast cancer
 
 ### &nbsp;&nbsp;&nbsp; Libraries used
 
-> *  [Pandas](http://pandas.pydata.org) 0.18.0
-> *  [Numpy](http://www.numpy.org) 1.10.4
-> *  [Matplotlib](https://matplotlib.org) 1.5.1
-> *  [Scikit-learn](http://scikit-learn.org/stable/) 0.17.1
+> *  [Pandas](http://pandas.pydata.org)
+> *  [Numpy](http://www.numpy.org)
+> *  [Matplotlib](https://matplotlib.org)
+> *  [Scikit-learn](http://scikit-learn.org/stable/)
