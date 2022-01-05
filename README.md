@@ -6,6 +6,7 @@ This is Kaggle Dataset for breast cancer
 
 ### &nbsp;&nbsp;&nbsp; Supported Python version
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Python version used in this project: 3.8.8
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- VS Code version used in this project: 1.59.1
 
 ### &nbsp;&nbsp;&nbsp; Libraries used
 
